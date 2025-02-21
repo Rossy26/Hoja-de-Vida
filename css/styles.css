@@ -63,10 +63,20 @@ article div {
     display: flex;
     align-items: center;
     gap: 10px;
-    justify-content: center;
+    justify-content: center
+}
+article div a {
+    color: #d48c8c;
+    text-decoration: none;
 }
 
 .bi {
     font-size: 24px;
     color: #d48c8c;
+}
+.habilidades {
+    display: flex;
+}
+h1, h2, h3, p {
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
