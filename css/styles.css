@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #d4a5a5;
+    background-color:#12355c;
     text-align: center;
     padding: 20px;
     color: white;
@@ -28,7 +28,7 @@ section {
 }
 
 article {
-    background-color: #fae3d9;
+    background-color:#f3eae8;
     margin: 15px;
     padding: 15px;
     border-radius: 10px;
@@ -37,8 +37,8 @@ article {
 }
 
 h3 {
-    color: #d48c8c;
-    border-bottom: 2px solid #d48c8c;
+    color: #0e3f5c;
+    border-bottom: 2px solid #0e3f5c;
     padding-bottom: 5px;
     text-align: center;
 }
@@ -50,12 +50,12 @@ progress {
 }
 
 progress::-webkit-progress-bar {
-    background-color: #f7cac9;
+    background-color: #fffaf2;
     border-radius: 5px;
 }
 
 progress::-webkit-progress-value {
-    background-color: #d48c8c;
+    background-color: #0e3f5c;
     border-radius: 5px;
 }
 
@@ -66,13 +66,13 @@ article div {
     justify-content: center
 }
 article div a {
-    color: #d48c8c;
+    color: #0e3f5c;
     text-decoration: none;
 }
 
 .bi {
     font-size: 24px;
-    color: #d48c8c;
+    color: #0e3f5c;
 }
 .habilidades {
     display: flex;
